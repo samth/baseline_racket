@@ -1,7 +1,7 @@
 #lang racket
 (require 2htdp/image)
 (require 2htdp/universe)
-(require "controles.rkt")
+;(require "controles.rkt")
 
 (struct State
   (angle)
